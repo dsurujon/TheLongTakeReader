@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_back">Back to List</string>
+    <string name="action_search">Search</string>
+    <string name="welcome">Welcome to thelongtake.net. \n\nClick the button to view a list of all reviews.</string>
+    <string name="main_button">List of Reviews</string>
+    <string name="title_activity_open_blog_post">OpenBlogPost</string>
+    <string name="blogpost">http://thelongtake.net/2014/12/26/film-favorites-up/</string>
+</resources>
